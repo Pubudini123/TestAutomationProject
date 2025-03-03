@@ -1,6 +1,6 @@
 Overview
 
-This repository contains automated UI tests for the FloAR application using C#, NUnit, Selenium WebDriver, and Protractor. The tests verify login functionality and ensure web application stability.
+This repository contains automated tests for the web application using C#, NUnit, Selenium WebDriver, and Protractor. The tests verify login functionality and ensure web application stability.
 
 Technologies Used
 
